@@ -30,7 +30,5 @@ The architecture combines deep geometric feature extraction with gradient-booste
 - **Baseline Comparison**: Outperformed initial geometric baselines (0.94) by 14% through advanced scheduling and statistical normalization tweaks.
 
 ## Usage
-1. Ensure `train_vitals.csv` and `test_vitals.csv` are in the root directory.
-2. Execute the pipeline:
-   ```bash
-   python main_pipeline.py
+1. Ensure `train_vitals.csv` and `test_vitals.csv` are in the correct directory.
+2. Execute the pipeline in the Notebook
